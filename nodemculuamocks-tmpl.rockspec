@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
-package = "nodemculuamocks"
-version = "1.0-4"
--- LuaDist source
+package = "NodeMCULuaMocks"
+version = "1.0-5"
 source = {
-  tag = "1.0-4",
-  url = "git://github.com/LuaDist-testing/nodemculuamocks.git"
+   url = "git://github.com/fikin/nodemcu-lua-mocks",
+   tag = "1.0-5"
 }
--- Original source
--- source = {
---    url = "git://github.com/fikin/nodemcu-lua-mocks",
---    tag = "1.0-4"
--- }
 description = {
    summary = "NodeMCU API mocks",
    detailed = [[
